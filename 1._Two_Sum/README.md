@@ -1,4 +1,4 @@
-# 001.Two_Sum (Medium)
+# Two Sum (Medium)
 
 ## Link
 
