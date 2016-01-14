@@ -16,6 +16,10 @@
 
 `Python` 自带了一个判断 xx in List 的内置函数，两行代码解决...
 
+## Recommend
+
+[My solution for your reference.](https://leetcode.com/discuss/3753/my-solution-for-your-reference)
+
 ## Reference
 
 [LeetCode 题解一（python版）](https://www.zybuluo.com/chanvee/note/52853)
