@@ -6,4 +6,17 @@
 
 ## Tips
 
-You should do the `Rotation` in the list given, otherwise it can't pass.
+**You should do the `Rotation` in the list given, otherwise it can't pass.**
+
+And if you want to exchange two variables, then you can try as follow:
+
+1.
+```
+a, b = b, a
+```
+2.
+```
+a ^= b
+b ^= a
+a ^= b
+```
