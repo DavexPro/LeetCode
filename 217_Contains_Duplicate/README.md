@@ -14,6 +14,10 @@
 
 利用 Python 的 `set` 来解决题目效率会更高
 
+## Recommend
+
+[Python集合（set）类型的操作](http://blog.csdn.net/business122/article/details/7541486)
+
 ## Reference
 
 [[LeetCode]Contains Duplicate](http://bookshadow.com/weblog/2015/05/25/leetcode-contains-duplicate/)
