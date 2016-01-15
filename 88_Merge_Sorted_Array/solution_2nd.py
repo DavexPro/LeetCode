@@ -9,7 +9,6 @@ class Solution(object):
         """
         if m==0:
             nums1[0:]=nums2[0:]
-            
         if m==1 and n==1:
             if nums1[0] > nums2[0]:
                 nums1[1]=nums1[0]
