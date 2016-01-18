@@ -30,3 +30,9 @@
 >   []
 > ]
 > ```
+
+## Tips
+
+如果用 Python 写，有个trick函数。
+
+`list(itertools.combinations(['a','b','c'],2))`
