@@ -13,5 +13,5 @@ class Solution(object):
         for i in range(m - 1):  
             for j in range(n - 1):  
                 paths[i + 1].append(paths[i][j + 1] + paths[i + 1][j])  
-                
+
         return paths[m-1][n-1]
