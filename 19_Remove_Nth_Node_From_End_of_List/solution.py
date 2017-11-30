@@ -32,10 +32,10 @@ class Solution:
             node_ahead = node_ahead.next
             node_behind = node_behind.next
         
-        node_behind.next = node_behind.next.next
-        
         # 返回倒数第 K 个节点
         return node_behind.next
 
         # 删除节点
+        node_behind.next = node_behind.next.next
+        
         return head
